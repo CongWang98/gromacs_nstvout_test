@@ -1,0 +1,13 @@
+#include "top/martini_v3.0.0.itp"
+#include "top/martini_v3.0.0_ions_v1.itp"
+#include "top/martini_v3.0.0_solvents_v1.itp"
+#include "top/aa_proa.itp"
+
+[ system ]
+Title of the system in water
+
+[ molecules ]
+molecule_0   200
+W           4576
+NA               54
+CL               54
